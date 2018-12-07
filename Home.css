@@ -1,0 +1,21 @@
+body{
+	background-image: url(Images/CoverBG.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: scroll;
+}
+
+a.nav{
+	color: darkblue;
+}
+
+#wellcome a{;
+cursor: default;	
+color: black;
+text-decoration: none;
+}
+
+font.links a:hover{
+	color: red;
+	font-style: italic;
+}

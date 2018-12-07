@@ -1,0 +1,77 @@
+body{
+	background-image: url(Images/SocialMediaBG.jpg);
+	background-size: cover;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-size: auto;
+	max-height: 600px;
+	max-width: 800px;
+}
+
+a:hover{
+	cursor: pointer;
+	font-weight: bold;
+}
+
+div.YouTube{
+	float: left;
+}
+ a.YTLink{ 
+ 	float: right;
+ 	position: relative;
+ 	top: 73px;
+ 	color: red;
+}
+
+div.Kitsu{
+	clear: both;
+	position: relative;
+	left: 40px;
+}
+a.KitsuLink{
+	position: relative;
+ 	top: -80px;
+ 	color: #F95136;
+ 	left: 10px;
+}
+
+div.TikTok{
+	position: relative;
+	top: 20px;
+	left: 40px;
+}
+a.TikTokLink{
+	position: relative;
+ 	top: -80px;
+ 	color: #F95136;
+ 	left: 10px;
+}
+
+div.Amino{
+	position: relative;
+	left: 430px;
+	top: -460px;
+}
+
+div.Amino img{ width: 120px; }
+a.AminoLink{
+	color: rgb(255,105,131);
+	position: relative;
+	top: -85px;
+	left: 40px;
+	font-size: 109%;
+}
+
+div.Discord img{ width: 140px; }
+div.Discord{
+	position: relative;
+	left: 430px;
+	top: -437px;
+}
+
+a.DiscordLink{
+	color: rgb(130,146,234);
+	position: relative;
+	top: -66px;
+	left: 20px;
+}
